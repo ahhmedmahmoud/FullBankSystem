@@ -1,0 +1,51 @@
+﻿  BankSystem.cpp
+C:\Users\Jaxon\source\repos\Uitilty library\clString.h(40,25): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'BankSystem.cpp')
+  
+C:\Users\Jaxon\source\repos\Uitilty library\clString.h(45,29): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'BankSystem.cpp')
+  
+C:\Users\Jaxon\source\repos\Uitilty library\clString.h(57,30): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'BankSystem.cpp')
+  
+C:\Users\Jaxon\source\repos\Uitilty library\clString.h(194,29): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'BankSystem.cpp')
+  
+C:\Users\Jaxon\source\repos\Uitilty library\clString.h(325,30): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'BankSystem.cpp')
+  
+C:\Users\Jaxon\source\repos\Uitilty library\clString.h(373,22): warning C4267: 'initializing': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'BankSystem.cpp')
+  
+C:\Users\Jaxon\source\repos\Uitilty library\clsInputValidate.h(106,16): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'BankSystem.cpp')
+  
+C:\Users\Jaxon\source\repos\Uitilty library\clsInputValidate.h(110,26): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'BankSystem.cpp')
+  
+C:\Users\Jaxon\source\repos\Uitilty library\clsBankClient.h(27,65): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'BankSystem.cpp')
+  
+C:\Users\Jaxon\source\repos\Uitilty library\clsBankClient.h(163,16): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'BankSystem.cpp')
+  
+C:\Users\Jaxon\source\repos\Uitilty library\clsClientListScreen.h(2,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  (compiling source file 'BankSystem.cpp')
+  
+C:\Users\Jaxon\source\repos\Uitilty library\clsAddNewClientScreen.h(27,66): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'BankSystem.cpp')
+  
+C:\Users\Jaxon\source\repos\Uitilty library\clsUpdateClientScreen.h(25,66): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'BankSystem.cpp')
+  
+C:\Users\Jaxon\source\repos\Uitilty library\clsTransactionScreen.h(6,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  (compiling source file 'BankSystem.cpp')
+  
+C:\Users\Jaxon\source\repos\Uitilty library\clsUtil.h(61,5): warning C4102: 'defualt': unreferenced label
+  (compiling source file 'BankSystem.cpp')
+  
+C:\Users\Jaxon\source\repos\Uitilty library\clsTotalBalanceScreen.h(49,77): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+  (compiling source file 'BankSystem.cpp')
+  
+C:\Users\Jaxon\source\repos\Uitilty library\clsBankClient.h(256,1): warning C4715: 'clsBankClient::Save': not all control paths return a value
+  Uitilty library.vcxproj -> C:\Users\Jaxon\source\repos\Uitilty library\x64\Debug\Projects.exe
